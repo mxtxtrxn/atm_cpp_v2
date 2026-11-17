@@ -1,0 +1,4 @@
+account_number,holder_name,pin_hash,balance_cents,status,failed_attempts,phone_number
+1000001,Usuario Demo Uno,8636c141049fab3d3e4251bf81876545,1500000,active,0,0000000001
+1000002,Usuario Demo Dos,32c2c958c80b43e50001ce51a761e9e5,850000,active,0,0000000002
+1000003,Usuario Demo Tres,ed9c4d5258a50a195c3915a5d9fc4699,320000,active,0,0000000003
