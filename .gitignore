@@ -20,6 +20,20 @@ CTestTestfile.cmake
 Testing/
 install_manifest.txt
 compile_commands.json
+CMakeSettings.json
+out/
+
+# Cobertura y perfiles
+*.gcda
+*.gcno
+*.gcov
+coverage/
+.cache/
+
+# Volcados del sistema
+*.stackdump
+core
+core.*
 
 # Artefactos de editores y sistemas operativos
 .vscode/
